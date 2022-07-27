@@ -1,6 +1,6 @@
 # Linux/Tools Commands
 
-This repository is a collection of various Linux and tools commands cheat sheet, and with some parameters example for quick reference.
+This repository is a collection of various Linux and tool commands cheat sheet, and with some parameter examples for quick reference.
 
 ## Template Platform
 
