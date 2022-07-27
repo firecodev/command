@@ -4,7 +4,7 @@
 
 ## Machine
 
-### References
+**References**
 
 [podman-machine — Podman documentation](https://docs.podman.io/en/latest/markdown/podman-machine.1.html)
 
