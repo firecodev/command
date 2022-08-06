@@ -4,7 +4,7 @@
 
 [SQL Statements & Structure - MariaDB Knowledge Base](https://mariadb.com/kb/en/sql-statements-structure/)
 
-#### Drop if exist
+#### Drop database if exist
 
 ```
 DROP DATABASE IF EXISTS db_name;
